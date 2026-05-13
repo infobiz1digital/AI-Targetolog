@@ -13,6 +13,7 @@ Thumbs.db
 config/tokens.md
 *.env
 .env*
+!.env.example
 
 # Personal data — твои реальные брифы и аккаунты не должны попадать в git
 # Если делаешь fork и хочешь сохранять данные у себя — раскомментируй:

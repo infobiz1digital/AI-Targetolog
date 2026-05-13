@@ -1,0 +1,31 @@
+# Anything that should never end up in the image
+.git
+.gitignore
+.dockerignore
+
+# Local secrets (Railway provides via env vars)
+.mcp.json
+.env
+.env.*
+config/tokens.md
+
+# OS / IDE noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime data — lives in persistent volume, not the image
+history/
+reports/
+
+# Generated
+*.log
+*.tmp
+node_modules/
+
+# Docs not needed in the image
+RAILWAY_DEPLOY.md
+docs/
+examples/

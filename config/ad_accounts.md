@@ -12,19 +12,20 @@
 
 ---
 
-## Аккаунт 1: {Название проекта}
+## Аккаунт 1: Makashovskiy — Школа английского
 
-- **Account ID**: act_XXXXXXXXXX
-- **Page ID**: XXXXXXXXXXXXXX
-- **Instagram ID**: XXXXXXXXXXXXXX (или "нет")
-- **Название**: {Название бизнеса в Facebook}
-- **Сайт**: https://example.com
-- **Бриф**: [briefs/{filename}.md](briefs/{filename}.md)
-- **Статус**: активен | приостановлен | архив
-- **Валюта**: USD | EUR | UAH | ...
-- **Часовой пояс**: UTC+X ({Город})
-- **Тип конверсии**: Lead-формы | WhatsApp | Site Leads (Pixel) | Engagement
-- **Заметки**: {Краткое описание ниши, особенности, ограничения}
+- **Account ID**: act_488224776520787
+- **Page ID**: 425357857333676
+- **Instagram ID**: нет (не привязан к странице)
+- **Название**: Makashovskiy - Школа англійської мови
+- **Business Manager**: БМ 98 TLC + Upgrade Community (id 2166727283541631)
+- **Сайт**: TBD (уточнить у клиента)
+- **Бриф**: [briefs/makashovskiy.md](briefs/makashovskiy.md)
+- **Статус**: активен
+- **Валюта**: UAH
+- **Часовой пояс**: UTC+2 (Europe/Kiev)
+- **Тип конверсии**: Lead-формы (уточнить — может быть Site Leads через Pixel)
+- **Заметки**: Языковая школа. Курсы английского, мини-курсы, бесплатные уроки. Аудитория RU/UA-говорящая, гео Украина + Европа.
 
 ---
 

@@ -1,0 +1,117 @@
+#!/usr/bin/env bash
+# Talk to the Railway-hosted AI Ads agent from your local terminal.
+#
+# Usage:
+#   ./scripts/agent "your prompt"                  → run a Claude query in the container, print result
+#   ./scripts/agent --json "your prompt"           → same, but print the full JSON response
+#   ./scripts/agent --haiku "your prompt"          → use Haiku 4.5 (cheaper, faster, less smart)
+#   ./scripts/agent exec "bash command"            → run a bash command in the container
+#   ./scripts/agent shell                          → open an interactive shell in the container
+#   ./scripts/agent logs                           → tail Railway deployment logs
+#   ./scripts/agent status                         → show service status
+#   ./scripts/agent open                           → open the code-server URL in browser
+#   ./scripts/agent help                           → this help
+
+set -euo pipefail
+
+KEY="${RAILWAY_SSH_KEY:-${HOME}/.ssh/railway_ed25519}"
+WORKDIR="/home/coder/workspace/ai-ads-agent"
+DEFAULT_MODEL="claude-opus-4-7"
+SERVICE_DOMAIN="ai-targetolog-production.up.railway.app"
+SSH_HOST="${SERVICE_DOMAIN}@ssh.railway.com"
+PUBLIC_URL="https://${SERVICE_DOMAIN}"
+
+die() { echo "error: $*" >&2; exit 1; }
+[ -f "$KEY" ] || die "SSH key not found: $KEY"
+
+ssh_exec() {
+    ssh -i "$KEY" -o StrictHostKeyChecking=accept-new "$SSH_HOST" "$@"
+}
+
+cmd_help() {
+    cat <<EOF
+Usage:
+  agent "your prompt"          run a Claude query in the Railway container
+  agent --json "your prompt"   same, but print the full JSON response
+  agent --haiku "your prompt"  use Haiku 4.5 (cheaper, ~10x less cost)
+  agent exec "bash command"    run a bash command in the container
+  agent shell                  open an interactive shell in the container
+  agent logs                   tail Railway deployment logs
+  agent status                 show Railway service status
+  agent open                   open the code-server URL in browser
+  agent help                   this message
+
+Examples:
+  agent "list active campaigns with label Makashov in act_1238835628442693"
+  agent --haiku "show me yesterday's spend on Makashov campaigns"
+  agent exec "git pull && git log --oneline -5"
+  agent shell
+EOF
+}
+
+cmd_shell() {
+    exec ssh -t -i "$KEY" -o StrictHostKeyChecking=accept-new "$SSH_HOST" "cd $WORKDIR && exec bash -l"
+}
+
+cmd_exec() {
+    [ $# -gt 0 ] || die "exec requires a command, e.g.: agent exec 'git status'"
+    ssh_exec "cd $WORKDIR && $*"
+}
+
+cmd_logs() {
+    cd "$(dirname "$0")/.."
+    railway logs --deployment 2>&1 | grep -v "agent tooling"
+}
+
+cmd_status() {
+    cd "$(dirname "$0")/.."
+    railway status 2>&1 | grep -v "agent tooling"
+}
+
+cmd_open() {
+    if command -v open >/dev/null; then
+        open "$PUBLIC_URL"
+    else
+        echo "$PUBLIC_URL"
+    fi
+}
+
+cmd_ask() {
+    local model="$DEFAULT_MODEL" json=0
+    while [ $# -gt 0 ]; do
+        case "$1" in
+            --json)  json=1; shift ;;
+            --haiku) model="claude-haiku-4-5-20251001"; shift ;;
+            --opus)  model="claude-opus-4-7"; shift ;;
+            --)      shift; break ;;
+            -*)      die "unknown flag: $1" ;;
+            *)       break ;;
+        esac
+    done
+    [ $# -gt 0 ] || die "prompt required"
+    local prompt="$*"
+
+    local remote_cmd="cd $WORKDIR && git config --global --add safe.directory $WORKDIR 2>/dev/null; claude -p --model $model --output-format json --allowedTools 'mcp__meta-ads__*' 2>&1"
+    local result
+    result=$(printf '%s' "$prompt" | ssh -i "$KEY" -o StrictHostKeyChecking=accept-new "$SSH_HOST" "$remote_cmd")
+
+    if [ $json -eq 1 ]; then
+        printf '%s\n' "$result"
+    else
+        printf '%s\n' "$result" | jq -r '.result // .' 2>/dev/null || printf '%s\n' "$result"
+    fi
+}
+
+main() {
+    case "${1:-help}" in
+        help|--help|-h) cmd_help ;;
+        shell)          cmd_shell ;;
+        exec)           shift; cmd_exec "$@" ;;
+        logs)           cmd_logs ;;
+        status)         cmd_status ;;
+        open)           cmd_open ;;
+        *)              cmd_ask "$@" ;;
+    esac
+}
+
+main "$@"

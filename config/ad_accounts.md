@@ -12,20 +12,43 @@
 
 ---
 
-## Аккаунт 1: Makashovskiy — Школа английского
+## Аккаунт 1: Makashovskiy — основной (исторический, UAH)
 
 - **Account ID**: act_488224776520787
 - **Page ID**: 425357857333676
-- **Instagram ID**: нет (не привязан к странице)
-- **Название**: Makashovskiy - Школа англійської мови
+- **Instagram ID**: 17841467641821461 (@makashovskiy_school)
+- **Название в FB**: «Макашовский - основной»
 - **Business Manager**: БМ 98 TLC + Upgrade Community (id 2166727283541631)
-- **Сайт**: TBD (уточнить у клиента)
+- **Сайт**: https://m.makashovski.com/12weeks_summer
 - **Бриф**: [briefs/makashovskiy.md](briefs/makashovskiy.md)
-- **Статус**: активен
+- **Статус**: активен (валидный кабинет, не ошибка) — основной исторический, накоплено $24M+ трат, возраст 1315 дней
 - **Валюта**: UAH
 - **Часовой пояс**: UTC+2 (Europe/Kiev)
-- **Тип конверсии**: Lead-формы (уточнить — может быть Site Leads через Pixel)
-- **Заметки**: Языковая школа. Курсы английского, мини-курсы, бесплатные уроки. Аудитория RU/UA-говорящая, гео Украина + Европа.
+- **Тип конверсии**: Lead-формы (исторически)
+- **Заметки**: Старый «основной» кабинет в гривне. Используется не для новых запусков в USD — для них кабинет infobiz digital 1 (см. ниже). Здесь — для истории/легаси. Активные кампании пока не трогаем.
+
+---
+
+## Аккаунт 2: Makashovskiy — кабинет infobiz digital 1 (активный для USD-запусков)
+
+- **Account ID**: act_1238835628442693
+- **Page ID**: 425357857333676
+- **Instagram ID**: 17841467641821461 (@makashovskiy_school) ✓ подтверждено через креатив 973698025060019
+- **Pixel ID**: 1865528830653308 (название: «Makashov new») ✓ активен, фиксирует offsite_conversion
+- **Pixel-событие для оптимизации**: кастомное `anketa_predzapysu` (пред-запись на лендинге 12weeks_summer) — НЕ стандартное `Lead`. Кастомные конверсии: `anketa_predzapysu`, `CompleteRegistrationHabit`, `mktimefree`, `mkchasi`, `bibliotekaregistration`. Custom Conversion ID для anketa_predzapysu: `9297139860298560`.
+- **Название**: infobiz digital 1
+- **Business Manager**: infobiz digital 1
+- **Сайт**: https://m.makashovski.com/12weeks_summer
+- **Бриф**: [briefs/makashovskiy.md](briefs/makashovskiy.md)
+- **Статус**: активен (готовится к запуску кампании 12weeks_summer, потрачено $17,139.11, баланс $125.43)
+- **Валюта**: USD
+- **Часовой пояс**: UTC+2 (Europe/Kiev)
+- **Тип конверсии**: OFFSITE_CONVERSIONS на кастомный pixel event `anketa_predzapysu`
+- **Целевой CPL**: $10 (фактический CPL похожих кампаний — $2.7–$8.0)
+- **Дневной бюджет**: $50
+- **Метка кампаний в кабинете**: `Makashov`
+- **DSA**: beneficiary/payor — Dmytro Frolov
+- **Заметки**: На 13.05.2026 в кабинете уже работают 3 активных OUTCOME_LEADS кампании с этим же лендингом (см. бриф). Новая кампания дополняет существующий пул на $50/день.
 
 ---
 

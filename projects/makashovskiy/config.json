@@ -1,12 +1,12 @@
 {
-  "name": "<project-name>",
-  "ad_account_id": "act_XXXXXXXXXXXXXXXX",
-  "owners": ["<targetologist>"],
+  "name": "makashovskiy",
+  "ad_account_id": "act_1238835628442693",
+  "owners": ["valeriia", "julia"],
   "currency": "USD",
   "goals": {
     "primary": "leads",
     "kpi": {
-      "cpl": null,
+      "cpl": 10,
       "cpm": null,
       "ctr": null,
       "roas": null

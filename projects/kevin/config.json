@@ -1,0 +1,16 @@
+{
+  "name": "kevin",
+  "ad_account_id": "act_2277095999145611",
+  "owners": ["valeriia", "julia"],
+  "currency": "UAH",
+  "goals": {
+    "primary": "leads",
+    "kpi": {
+      "cpl": 250,
+      "cpm": null,
+      "ctr": null,
+      "roas": null
+    }
+  },
+  "status": "active"
+}

@@ -5,3 +5,4 @@
 Дописуються командою `/note makashovskiy <text>` боту в Telegram.
 
 ---
+- [2026-05-22 16:24] @Honcharova_v: перший тест

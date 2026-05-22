@@ -11,3 +11,4 @@
 Дописується автоматично командою `/action <project> <text>` боту в Telegram, а також worker'ом при детектуванні значимих змін у кабінеті.
 
 ---
+- [2026-05-22 16:37] [WARNING] [worker] ⚠️ CPL вище норми: 15.91 USD (ціль 10) — 1605_Makashov_world_test_drive

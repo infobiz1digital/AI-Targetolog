@@ -1,0 +1,16 @@
+{
+  "name": "<project-name>",
+  "ad_account_id": "act_XXXXXXXXXXXXXXXX",
+  "owner": "<targetologist-name>",
+  "currency": "USD",
+  "goals": {
+    "primary": "leads",
+    "kpi": {
+      "cpl": null,
+      "cpm": null,
+      "ctr": null,
+      "roas": null
+    }
+  },
+  "status": "active"
+}

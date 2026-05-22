@@ -30,4 +30,5 @@ reports/**
 # Generated
 *.log
 *.tmp
+*.token
 node_modules/

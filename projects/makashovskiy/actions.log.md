@@ -14,3 +14,4 @@
 - [2026-05-22 16:37] [WARNING] [worker] ⚠️ CPL вище норми: 15.91 USD (ціль 10) — 1605_Makashov_world_test_drive
 - [2026-05-23 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1605_Makashov_world_test_drive_quiz
 - [2026-05-23 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 36.02 USD (ціль 10) — 1205_Makashov_A1_world_anketa_predzapysu_40%
+- [2026-05-23 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.13 USD (ціль 10) — 2005_Makashov_world_site_time2_mini90

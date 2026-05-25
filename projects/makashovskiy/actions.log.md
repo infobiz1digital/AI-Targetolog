@@ -19,3 +19,4 @@
 - [2026-05-25 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2205_Makashov_retarget_anketa_30%
 - [2026-05-25 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 1305_Makashov_angl_za_lito_anketa_promo
 - [2026-05-25 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 17.27 USD (ціль 10) — 2005_Makashov_world_mini90_site_mini90
+- [2026-05-25 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1305_Makashov_angl_za_12_tuzhniv_lita_karusel_promo

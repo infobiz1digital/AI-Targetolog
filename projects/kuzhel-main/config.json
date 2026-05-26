@@ -1,0 +1,16 @@
+{
+  "name": "kuzhel-main",
+  "ad_account_id": "act_870872746902406",
+  "owners": ["valeriia", "julia"],
+  "currency": "USD",
+  "goals": {
+    "primary": "leads",
+    "kpi": {
+      "cpl": 4,
+      "cpm": null,
+      "ctr": null,
+      "roas": null
+    }
+  },
+  "status": "active"
+}

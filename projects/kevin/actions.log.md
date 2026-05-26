@@ -12,3 +12,4 @@
 
 ---
 - [2026-05-26 08:00] [INFO] [worker] 🆕 Нова кампанія: quiz_psitetgbot_2605_Kevin_UA_interests_4_site3_short_frolov
+- [2026-05-26 08:00] [INFO] [worker] 🆕 Нова кампанія: quiz_psitetgbot_2605_Kevin_UA_interests_4_site2_short_frolov

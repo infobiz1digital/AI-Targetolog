@@ -1,0 +1,16 @@
+{
+  "name": "kuzhel-backup",
+  "ad_account_id": "act_1355040786392363",
+  "owners": ["valeriia", "julia"],
+  "currency": "USD",
+  "goals": {
+    "primary": "leads",
+    "kpi": {
+      "cpl": 4,
+      "cpm": null,
+      "ctr": null,
+      "roas": null
+    }
+  },
+  "status": "active"
+}

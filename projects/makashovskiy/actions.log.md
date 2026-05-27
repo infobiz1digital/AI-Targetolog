@@ -22,3 +22,4 @@
 - [2026-05-25 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1305_Makashov_angl_za_12_tuzhniv_lita_karusel_promo
 - [2026-05-25 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 0105_Makashov_kodove_plus
 - [2026-05-27 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1905_Makashov_quiz
+- [2026-05-27 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 24.16 USD (ціль 10) — 1304_Makashov_awa1_zero

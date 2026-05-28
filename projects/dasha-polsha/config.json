@@ -1,0 +1,16 @@
+{
+  "name": "dasha-polsha",
+  "ad_account_id": "act_1121666772739643",
+  "owners": ["valeriia", "julia"],
+  "currency": "PLN",
+  "goals": {
+    "primary": "sales",
+    "kpi": {
+      "cpl": 36,
+      "cpm": null,
+      "ctr": null,
+      "roas": 1.5
+    }
+  },
+  "status": "active"
+}

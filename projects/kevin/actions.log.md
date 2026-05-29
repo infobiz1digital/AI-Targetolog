@@ -19,3 +19,4 @@
 - [2026-05-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_2905_Kevin_UA_interests_4_site_5_frolov
 - [2026-05-29 13:00] [CRITICAL] [worker] 💸 Перевитрата: 1638.82 UAH при бюджеті 1330 — quiz_psitetgbot_2605_Kevin_UA_interests_4_site2_short_frolov
 - [2026-05-29 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_2605_Kevin_UA_interests_4_site3_short_frolov
+- [2026-05-29 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_2605_Kevin_UA_interests_4_site2_short_frolov

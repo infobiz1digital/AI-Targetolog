@@ -34,3 +34,4 @@
 - [2026-05-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3005_Makashov_kodove_filmy_karusel_promo
 - [2026-05-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3005_Makashov_kodove_sleng_promo
 - [2026-05-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3005_Makashov_kodove_proryv_promo
+- [2026-05-30 08:00] [INFO] [Meta] 💰 Бюджет 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi: 50 → 70 USD/день

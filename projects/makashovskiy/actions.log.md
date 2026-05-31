@@ -39,3 +39,4 @@
 - [2026-05-31 08:00] [INFO] [Meta] 💰 Бюджет 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi: 70 → 50 USD/день
 - [2026-05-31 13:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.84 USD (ціль 10) — 2805_Makashov_awa1_2_zero
 - [2026-05-31 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 41.44 USD (ціль 10) — 1905_Makashov_A1_world_UA_anketa_predzapysu_40%
+- [2026-05-31 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 23.25 USD (ціль 10) — 2805_Makashov_awa1_2_zero

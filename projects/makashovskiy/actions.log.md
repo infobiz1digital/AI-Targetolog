@@ -36,3 +36,4 @@
 - [2026-05-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3005_Makashov_kodove_proryv_promo
 - [2026-05-30 08:00] [INFO] [Meta] 💰 Бюджет 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi: 50 → 70 USD/день
 - [2026-05-30 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 18.01 USD (ціль 10) — 1205_Makashov_A1_world_anketa_predzapysu_40%
+- [2026-05-31 08:00] [INFO] [Meta] 💰 Бюджет 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi: 70 → 50 USD/день

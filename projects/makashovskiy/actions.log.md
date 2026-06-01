@@ -46,3 +46,4 @@
 - [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_karusel_kodove_proruv_2_promo
 - [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_kodove_proruv_1_promo
 - [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_retarget_zero_anketa_predzapysu_40%
+- [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_world_site1_90uah_intensyv_z_anhliiskoi

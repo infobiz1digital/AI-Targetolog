@@ -45,3 +45,4 @@
 - [2026-06-01 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 39.49 USD (ціль 10) — 1205_Makashov_A1_world_anketa_predzapysu_40%
 - [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_karusel_kodove_proruv_2_promo
 - [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_kodove_proruv_1_promo
+- [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_retarget_zero_anketa_predzapysu_40%

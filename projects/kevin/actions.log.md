@@ -30,3 +30,4 @@
 - [2026-06-02 08:00] [INFO] [worker] 🆕 Нова кампанія: quiz_psitetgbot_0206_Kevin_UA_interests_4_site_short_4_frolov
 - [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_0206_Kevin_UA_interests_4_site2_short_frolov
 - [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_0206_Kevin_UA_interests_4_site3_short_frolov
+- [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_0206_Kevin_UA_interests_4_site_short_4_frolov

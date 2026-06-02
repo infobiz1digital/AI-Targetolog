@@ -51,3 +51,4 @@
 - [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2005_Makashov_world_mini90_site_mini90
 - [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2005_Makashov_world_site_time2_mini90
 - [2026-06-02 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 25.73 USD (ціль 10) — 1905_Makashov_A1_world_UA_anketa_predzapysu_40%
+- [2026-06-02 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 19.66 USD (ціль 10) — 1205_Makashov_retarget_all_anketa_predzapysu_40%

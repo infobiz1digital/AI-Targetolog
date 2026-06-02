@@ -49,3 +49,4 @@
 - [2026-06-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0206_Makashov_world_site1_90uah_intensyv_z_anhliiskoi
 - [2026-06-01 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 15.90 USD (ціль 10) — 2805_Makashov_awa1_zero
 - [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2005_Makashov_world_mini90_site_mini90
+- [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2005_Makashov_world_site_time2_mini90

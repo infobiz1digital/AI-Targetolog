@@ -34,3 +34,4 @@
 - [2026-06-02 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: quiz_psitetgbot_2305_Kevin_UA_interests_4_site_short_frolov
 - [2026-06-03 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 603.20 UAH (ціль 250) — quiz_psitetgbot_2905_Kevin_UA_interests_4_site_4_frolov
 - [2026-06-04 08:00] [INFO] [worker] 🆕 Нова кампанія: quiz_psitetgbot_0406_Kevin_UA_interests_4_site2_short_frolov
+- [2026-06-04 08:00] [INFO] [worker] 🆕 Нова кампанія: quiz_psitetgbot_0406_Kevin_UA_interests_4_site3_short_frolov

@@ -62,3 +62,4 @@
 - [2026-06-05 13:00] [CRITICAL] [worker] 💸 Перевитрата: 6.27 USD при бюджеті 5 — 3005_Makashov_kodove_proryv_promo
 - [2026-06-05 18:00] [CRITICAL] [worker] 💸 Перевитрата: 6.39 USD при бюджеті 5 — 0206_Makashov_kodove_proruv_1_promo
 - [2026-06-05 18:00] [CRITICAL] [worker] 💸 Перевитрата: 6.38 USD при бюджеті 5 — 3005_Makashov_kodove_sleng_promo
+- [2026-06-05 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 20.20 USD (ціль 10) — 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi

@@ -65,3 +65,4 @@
 - [2026-06-05 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 20.20 USD (ціль 10) — 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi
 - [2026-06-06 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 22.02 USD (ціль 10) — 0206_Makashov_retarget_zero_anketa_predzapysu_40%
 - [2026-06-07 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 20.93 USD (ціль 10) — 0406_Makashov_world_site1_90uah_intensyv_z_anhliiskoi
+- [2026-06-07 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 23.99 USD (ціль 10) — 2805_Makashov_awa1_2_zero

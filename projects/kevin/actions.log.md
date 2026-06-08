@@ -39,3 +39,4 @@
 - [2026-06-06 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: quiz_psitetgbot_0406_Kevin_UA_interests_4_site2_short_frolov
 - [2026-06-06 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: quiz_psitetgbot_0406_Kevin_UA_interests_4_site_short_frolov
 - [2026-06-08 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: quiz_psitetgbot_0406_Kevin_UA_interests_4_site3_short_frolov
+- [2026-06-08 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: quiz_psitetgbot_2905_Kevin_UA_interests_4_site_4_frolov

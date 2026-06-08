@@ -73,3 +73,4 @@
 - [2026-06-08 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 2905_Makashov_world_site2_90uah_intensyv_z_anhliiskoi
 - [2026-06-08 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 2905_Makashov_world_site1_90uah_intensyv_z_anhliiskoi
 - [2026-06-08 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0206_Makashov_karusel_kodove_proruv_2_promo
+- [2026-06-08 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0206_Makashov_kodove_proruv_1_promo

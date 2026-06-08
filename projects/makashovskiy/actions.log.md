@@ -70,3 +70,4 @@
 - [2026-06-08 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0506_Makashov_retarget_zero_anketa_predzapysu_40%
 - [2026-06-08 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0406_Makashov_world_site1_90uah_intensyv_z_anhliiskoi
 - [2026-06-08 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0206_Makashov_world_site1_90uah_intensyv_z_anhliiskoi
+- [2026-06-08 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 2905_Makashov_world_site2_90uah_intensyv_z_anhliiskoi

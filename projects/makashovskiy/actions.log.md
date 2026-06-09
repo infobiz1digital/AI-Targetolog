@@ -80,3 +80,4 @@
 - [2026-06-08 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 52.43 USD (ціль 10) — 1205_Makashov_retarget_all_anketa_predzapysu_40%
 - [2026-06-09 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 24.30 USD (ціль 10) — 1205_Makashov_retarget_all_anketa_predzapysu_40%
 - [2026-06-09 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0506_Makashov_retarget_all_anketa_predzapysu_40%
+- [2026-06-09 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0206_Makashov_retarget_zero_anketa_predzapysu_40%

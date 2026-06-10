@@ -87,3 +87,4 @@
 - [2026-06-09 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 1205_Makashov_retarget_all_anketa_predzapysu_40%
 - [2026-06-09 18:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 1205_Makashov_retarget_zero_anketa_predzapysu_40%
 - [2026-06-10 18:00] [INFO] [worker] 🆕 Нова кампанія: 1106_Makashov_karusel_kodove_proruv_promo
+- [2026-06-10 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.09 USD (ціль 10) — 2805_Makashov_awa1_zero

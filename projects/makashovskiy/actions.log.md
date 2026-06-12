@@ -95,3 +95,4 @@
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_reels_kodove_urok_promo
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_retarget_all_anketa_predzapysu_30%
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_retarget_zero_anketa_peredzapysu_30%
+- [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_A1_world_anketa_predzapysu_30%

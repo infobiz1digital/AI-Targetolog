@@ -90,3 +90,4 @@
 - [2026-06-10 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.09 USD (ціль 10) — 2805_Makashov_awa1_zero
 - [2026-06-11 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 15.22 USD (ціль 10) — 2805_Makashov_awa1_zero
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_reels2_kodove_50_promo
+- [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_reels_kodove_50_promo

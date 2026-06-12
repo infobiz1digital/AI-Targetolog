@@ -99,3 +99,4 @@
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_retarget_anketa_30%
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_retarget_all_zero_anketa_peredzapysu_30%
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_retarget_all_dolce_vita_anketa_peredzapysu_30%
+- [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_world_site_12weeks_anketa_peredzapysu_30%

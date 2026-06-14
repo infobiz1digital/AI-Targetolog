@@ -101,3 +101,4 @@
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_retarget_all_dolce_vita_anketa_peredzapysu_30%
 - [2026-06-12 08:00] [INFO] [worker] 🆕 Нова кампанія: 1206_Makashov_world_site_12weeks_anketa_peredzapysu_30%
 - [2026-06-12 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 20.92 USD (ціль 10) — 1206_Makashov_retarget_zero_anketa_peredzapysu_30%
+- [2026-06-14 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 18.93 USD (ціль 10) — 1206_Makashov_retarget_zero_anketa_peredzapysu_30%

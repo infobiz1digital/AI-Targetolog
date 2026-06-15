@@ -114,3 +114,4 @@
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2805_Makashov_awa1_2_zero
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2805_Makashov_awa1_zero
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1205_Makashov_160_naivazhlyvishih_prykmetnykiv_promo
+- [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1205_Makashov_160_prykmetnykiv_promo

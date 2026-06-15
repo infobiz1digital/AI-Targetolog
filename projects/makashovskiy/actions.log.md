@@ -111,3 +111,4 @@
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1206_Makashov_A1_world_anketa_predzapysu_30%
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1106_Makashov_karusel_kodove_proruv_promo
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3005_Makashov_kodove_filmy_karusel_promo
+- [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2805_Makashov_awa1_2_zero

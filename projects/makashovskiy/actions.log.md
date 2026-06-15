@@ -109,3 +109,4 @@
 - [2026-06-15 13:00] [INFO] [worker] 🆕 Нова кампанія: 1606_Makashov_A1_world_anketa_predzapysu_30%
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1506_Makashov_retarget_anketa_30%
 - [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1206_Makashov_A1_world_anketa_predzapysu_30%
+- [2026-06-15 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1106_Makashov_karusel_kodove_proruv_promo

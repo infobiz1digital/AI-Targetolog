@@ -122,3 +122,4 @@
 - [2026-06-16 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1206_Makashov_retarget_all_anketa_predzapysu_30%
 - [2026-06-16 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1206_Makashov_retarget_zero_anketa_peredzapysu_30%
 - [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_sait_urok_A1_B1
+- [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_sait_A1_test

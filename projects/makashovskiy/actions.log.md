@@ -125,3 +125,4 @@
 - [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_sait_A1_test
 - [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_sait_A1_world
 - [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_sait_17_world_aw_leto
+- [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_2_sait_17_world_aw_leto

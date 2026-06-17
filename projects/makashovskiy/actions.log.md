@@ -127,3 +127,4 @@
 - [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_sait_17_world_aw_leto
 - [2026-06-16 18:00] [INFO] [worker] 🆕 Нова кампанія: 1706_Makashov_2_sait_17_world_aw_leto
 - [2026-06-17 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 25.91 USD (ціль 10) — 1706_Makashov_sait_A1_world
+- [2026-06-17 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1206_Makashov_reels_kodove_dieslova_promo

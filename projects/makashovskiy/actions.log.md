@@ -136,3 +136,4 @@
 - [2026-06-20 08:00] [INFO] [worker] 🆕 Нова кампанія: 2006_Makashov_meet_you_promo
 - [2026-06-21 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 37.22 USD (ціль 10) — 1706_Makashov_sait_A1_world
 - [2026-06-22 18:00] [INFO] [worker] 🆕 Нова кампанія: 2306_Makashov_SUMMER_sait_A1_world
+- [2026-06-22 18:00] [INFO] [worker] 🆕 Нова кампанія: 2306_Makashov_SUMMER sait_A1_world

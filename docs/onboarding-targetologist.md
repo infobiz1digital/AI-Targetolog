@@ -124,16 +124,21 @@ meta-ads: uv run --directory ~/meta-ads-mcp meta-ads-mcp - ✓ Connected
 
 ---
 
-## 📚 Крок 6. Прочитай ключові документи + acknowledge
+## 📚 Крок 6. Прочитай ключові документи
 
-⚠️ **Це гейт.** Без виконання цього кроку агент НЕ дозволить тобі робити дії в кабінетах.
+Перед першими діями в кабінетах:
 
-1. Відкрий **[docs/READ-ME-FIRST.md](READ-ME-FIRST.md)** — це обовʼязковий чек-лист
-2. Прочитай усі документи зі списку (CLAUDE.md, AGENT.md, ad_accounts.md, safety_rules.md, всі брифи)
-3. Створи acknowledge-файл у своїй памʼяті: `~/.claude/memory/acknowledged_team_rules.md` (шаблон у READ-ME-FIRST.md)
-4. Тільки після створення файлу агент дозволить тобі writeable-операції (створення/зміна/пауза кампаній)
-
-До acknowledge ти можеш робити **тільки READ-операції** (звіти, перегляд кампаній, аналітика).
+1. **[CLAUDE.md](../CLAUDE.md)** — головні правила (5 хв)
+2. **[config/AGENT.md](../config/AGENT.md)** — повна інструкція агента (15 хв)
+3. **[config/ad_accounts.md](../config/ad_accounts.md)** — список усіх клієнтів та кабінетів
+4. **[config/knowledge/safety_rules.md](../config/knowledge/safety_rules.md)** — ліміти та правила безпеки
+5. **Брифи проєктів** у [`config/briefs/`](../config/briefs/) — деталі кожного клієнта:
+   - `makashovskiy.md`
+   - `kevin.md`
+   - `kuzhel.md`
+   - `dasha_polsha.md`
+   - `nastia_smm.md`
+6. **Профіль твій:** [`targetologists/marta.md`](../targetologists/marta.md) — звір що дані актуальні
 
 ---
 

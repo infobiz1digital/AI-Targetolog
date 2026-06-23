@@ -141,3 +141,4 @@
 - [2026-06-23 18:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_2_promo_kodove_frazovi
 - [2026-06-23 18:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_anhliiska_za_30xv_promo
 - [2026-06-23 18:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_sait_17_world_aw_leto
+- [2026-06-23 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1906_Makashov_sait_17_world_aw_leto

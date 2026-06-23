@@ -124,31 +124,27 @@ meta-ads: uv run --directory ~/meta-ads-mcp meta-ads-mcp - ✓ Connected
 
 ---
 
-## 📚 Крок 6. Прочитай ключові документи
+## 📚 Крок 6. Прочитай ключові документи + acknowledge
 
-Це обовʼязково перед першими дiями в кабінетах:
+⚠️ **Це гейт.** Без виконання цього кроку агент НЕ дозволить тобі робити дії в кабінетах.
 
-1. **[CLAUDE.md](../CLAUDE.md)** — головні правила (5 хв)
-2. **[config/AGENT.md](../config/AGENT.md)** — повна інструкція агента (15 хв)
-3. **[config/ad_accounts.md](../config/ad_accounts.md)** — список усіх клієнтів та кабінетів
-4. **Брифи проєктів** у [`config/briefs/`](../config/briefs/) — деталі кожного клієнта:
-   - `makashovskiy.md`
-   - `kevin.md`
-   - `kuzhel.md`
-   - `dasha_polsha.md`
-   - `nastia_smm.md`
-5. **Memory-файли в `~/.claude/memory/`** — командна памʼять (якщо адмін поділиться)
+1. Відкрий **[docs/READ-ME-FIRST.md](READ-ME-FIRST.md)** — це обовʼязковий чек-лист
+2. Прочитай усі документи зі списку (CLAUDE.md, AGENT.md, ad_accounts.md, safety_rules.md, всі брифи)
+3. Створи acknowledge-файл у своїй памʼяті: `~/.claude/memory/acknowledged_team_rules.md` (шаблон у READ-ME-FIRST.md)
+4. Тільки після створення файлу агент дозволить тобі writeable-операції (створення/зміна/пауза кампаній)
+
+До acknowledge ти можеш робити **тільки READ-операції** (звіти, перегляд кампаній, аналітика).
 
 ---
 
 ## 🏷️ Крок 7. Твій суфікс у неймінгу
 
-Кожна кампанія закінчується на 2-літерний код менеджера:
+Кожна кампанія закінчується на код менеджера:
 
 | Менеджер | Код | Приклад |
 |---|---|---|
-| Frolov | `VM` | `1906_NastiaSMM_UA_site_5_web_freelance_VM` |
-| **Ти (Марта)** | **`MT`** ← (узгодити з адміном) | `2306_NastiaSMM_UA_site_3_web_smm_MT` |
+| Frolov | `VM` (або `frolov`/`Kuzhel`) | `1906_NastiaSMM_UA_site_5_web_freelance_VM` |
+| **Ти (Марта)** | **`Marta`** | `2306_NastiaSMM_UA_site_3_web_smm_Marta` |
 
 Це ВАЖЛИВО — за суфіксом потім фільтруємо хто що запускав.
 

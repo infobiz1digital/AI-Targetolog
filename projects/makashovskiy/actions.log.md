@@ -140,3 +140,4 @@
 - [2026-06-23 08:00] [INFO] [worker] 🆕 Нова кампанія: 2306_Makashov_gaid_360_promo
 - [2026-06-23 18:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_2_promo_kodove_frazovi
 - [2026-06-23 18:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_anhliiska_za_30xv_promo
+- [2026-06-23 18:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_sait_17_world_aw_leto

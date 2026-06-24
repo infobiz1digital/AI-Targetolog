@@ -144,3 +144,4 @@
 - [2026-06-23 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1906_Makashov_sait_17_world_aw_leto
 - [2026-06-24 08:00] [INFO] [worker] 🆕 Нова кампанія: 2405_Makashov_retarget_anketa_nabir_30%
 - [2026-06-24 13:00] [INFO] [worker] 🆕 Нова кампанія: 2406_Makashov_promo_kodove_frazovi
+- [2026-06-24 13:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 2406_Makashov_2_promo_kodove_frazovi

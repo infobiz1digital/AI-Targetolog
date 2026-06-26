@@ -153,3 +153,4 @@
 - [2026-06-25 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2306_Makashov_sait_new_urok_A1_B1
 - [2026-06-25 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 36.64 USD (ціль 10) — 1706_Makashov_sait_A1_test
 - [2026-06-26 08:00] [INFO] [worker] 🆕 Нова кампанія: 2606_Makashov_SUMMER_sait_A1_world
+- [2026-06-26 08:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2306_Makashov_SUMMER_sait_A1_world

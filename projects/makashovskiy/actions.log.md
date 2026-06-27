@@ -159,3 +159,4 @@
 - [2026-06-26 18:00] [INFO] [worker] 🆕 Нова кампанія: 2706_Makashov_sait_1_20%_kids
 - [2026-06-27 08:00] [INFO] [worker] 🆕 Нова кампанія: 2706_Makashov_besida_promo
 - [2026-06-27 08:00] [INFO] [worker] 🆕 Нова кампанія: 2706_Makashov_world_5usd_probnuy_urok
+- [2026-06-27 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 27.65 USD (ціль 10) — 1706_Makashov_sait_A1_world

@@ -166,3 +166,4 @@
 - [2026-06-29 13:00] [INFO] [worker] 🆕 Нова кампанія: 2906_Makashov_world_1usd_probnuy_urok
 - [2026-06-29 13:00] [INFO] [worker] 🆕 Нова кампанія: 2906_Makashov_world_sait1_5usd_probnuy_urok
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2706_Makashov_besida_promo
+- [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2706_Makashov_world_5usd_probnuy_urok

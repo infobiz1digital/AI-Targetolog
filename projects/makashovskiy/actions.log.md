@@ -164,3 +164,4 @@
 - [2026-06-28 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 18.26 USD (ціль 10) — 2405_Makashov_retarget_anketa_nabir_30%
 - [2026-06-29 13:00] [INFO] [worker] 🆕 Нова кампанія: 2906_Makashov_world_2usd_probnuy_urok
 - [2026-06-29 13:00] [INFO] [worker] 🆕 Нова кампанія: 2906_Makashov_world_1usd_probnuy_urok
+- [2026-06-29 13:00] [INFO] [worker] 🆕 Нова кампанія: 2906_Makashov_world_sait1_5usd_probnuy_urok

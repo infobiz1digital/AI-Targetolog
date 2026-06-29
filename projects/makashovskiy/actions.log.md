@@ -172,3 +172,4 @@
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2406_Makashov_promo_kodove_frazovi
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2406_Makashov_anhliiska_za_30xv_promo
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2006_Makashov_meet_you_promo
+- [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2104_Makashov_promo_kodove_frazovi

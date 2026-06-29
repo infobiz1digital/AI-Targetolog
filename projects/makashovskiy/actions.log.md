@@ -169,3 +169,4 @@
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2706_Makashov_world_5usd_probnuy_urok
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2706_Makashov_sait_3_20%_kids
 - [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2706_Makashov_sait_2_20%_kids
+- [2026-06-29 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2406_Makashov_promo_kodove_frazovi

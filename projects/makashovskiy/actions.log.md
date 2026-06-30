@@ -183,3 +183,4 @@
 - [2026-06-30 08:00] [INFO] [Meta] ▶️ Кампанія відновлена: 2805_Makashov_awa1_zero
 - [2026-06-30 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3006_Makashov_world_249uah_probnuy_urok
 - [2026-06-30 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3006_Makashov_world_99uah_probnuy_urok
+- [2026-06-30 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3006_Makashov_world_49uah_probnuy_urok

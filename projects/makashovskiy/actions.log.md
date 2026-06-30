@@ -176,3 +176,4 @@
 - [2026-06-29 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2606_Makashov_SUMMER_sait_A1_world
 - [2026-06-29 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2306_Makashov_sait_17_world_aw_leto
 - [2026-06-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3006_Makashov_world_249uah_probnuy_urok
+- [2026-06-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3006_Makashov_world_149uah_probnuy_urok

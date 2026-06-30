@@ -179,3 +179,4 @@
 - [2026-06-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3006_Makashov_world_149uah_probnuy_urok
 - [2026-06-30 08:00] [INFO] [worker] 🆕 Нова кампанія: 3006_Makashov_world_99uah_probnuy_urok
 - [2026-06-30 08:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 2906_Makashov_world_2usd_probnuy_urok
+- [2026-06-30 08:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 2906_Makashov_world_1usd_probnuy_urok

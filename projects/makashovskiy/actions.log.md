@@ -184,3 +184,4 @@
 - [2026-06-30 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3006_Makashov_world_249uah_probnuy_urok
 - [2026-06-30 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3006_Makashov_world_99uah_probnuy_urok
 - [2026-06-30 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 3006_Makashov_world_49uah_probnuy_urok
+- [2026-06-30 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 29.95 USD (ціль 10) — 2805_Makashov_awa1_zero

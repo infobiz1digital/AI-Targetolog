@@ -192,3 +192,4 @@
 - [2026-07-01 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.51 USD (ціль 10) — 2805_Makashov_awa1_2_zero
 - [2026-07-03 08:00] [INFO] [worker] 🆕 Нова кампанія: 0307_Makashov_world_site_1_9usd_probnuy_tyzden
 - [2026-07-03 08:00] [INFO] [worker] 🆕 Нова кампанія: 0307_Makashov_world_site_1_399uah_probnuy_tyzden
+- [2026-07-03 18:00] [INFO] [worker] 🆕 Нова кампанія: 0407_Makashov_world_site_3_399uah_probnuy_tyzden

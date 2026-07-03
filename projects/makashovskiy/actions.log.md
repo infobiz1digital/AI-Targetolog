@@ -190,3 +190,4 @@
 - [2026-07-01 18:00] [INFO] [worker] 🆕 Нова кампанія: 0207_Makashov_sait_A1_test
 - [2026-07-01 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 21.24 USD (ціль 10) — 2405_Makashov_retarget_anketa_nabir_30%
 - [2026-07-01 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.51 USD (ціль 10) — 2805_Makashov_awa1_2_zero
+- [2026-07-03 08:00] [INFO] [worker] 🆕 Нова кампанія: 0307_Makashov_world_site_1_9usd_probnuy_tyzden

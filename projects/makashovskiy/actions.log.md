@@ -194,3 +194,4 @@
 - [2026-07-03 08:00] [INFO] [worker] 🆕 Нова кампанія: 0307_Makashov_world_site_1_399uah_probnuy_tyzden
 - [2026-07-03 18:00] [INFO] [worker] 🆕 Нова кампанія: 0407_Makashov_world_site_3_399uah_probnuy_tyzden
 - [2026-07-03 18:00] [INFO] [worker] 🆕 Нова кампанія: 0407_Makashov_world_site_1_399uah_probnuy_tyzden
+- [2026-07-03 18:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 0307_Makashov_world_site_1_399uah_probnuy_tyzden

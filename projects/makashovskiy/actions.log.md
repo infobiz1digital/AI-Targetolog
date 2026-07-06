@@ -199,3 +199,4 @@
 - [2026-07-06 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 0407_Makashov_world_site_2_399uah_probnuy_tyzden
 - [2026-07-06 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 0307_Makashov_world_site_1_9usd_probnuy_tyzden
 - [2026-07-06 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 0207_Makashov_sait_A1_test
+- [2026-07-06 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1706_Makashov_sait_A1_test

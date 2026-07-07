@@ -202,3 +202,4 @@
 - [2026-07-06 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 1706_Makashov_sait_A1_test
 - [2026-07-06 18:00] [INFO] [worker] 🆕 Нова кампанія: 0707_Makashov_sait_A1_world
 - [2026-07-06 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 20.48 USD (ціль 10) — 2805_Makashov_awa1_2_zero
+- [2026-07-07 08:00] [INFO] [Meta] ▶️ Кампанія відновлена: 2204_Makashov_awa1_zero

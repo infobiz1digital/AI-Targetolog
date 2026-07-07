@@ -204,3 +204,4 @@
 - [2026-07-06 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 20.48 USD (ціль 10) — 2805_Makashov_awa1_2_zero
 - [2026-07-07 08:00] [INFO] [Meta] ▶️ Кампанія відновлена: 2204_Makashov_awa1_zero
 - [2026-07-07 13:00] [WARNING] [worker] ⚠️ CPL вище норми: 19.51 USD (ціль 10) — 2204_Makashov_awa1_zero
+- [2026-07-07 18:00] [INFO] [worker] 🆕 Нова кампанія: 0807_Makashov_sait_2_urok_A1_B1

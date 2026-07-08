@@ -209,3 +209,4 @@
 - [2026-07-07 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 28.78 USD (ціль 10) — 2204_Makashov_awa1_zero
 - [2026-07-08 13:00] [WARNING] [worker] ⚠️ CPL вище норми: 15.52 USD (ціль 10) — 0807_Makashov_sait_2_urok_A1_B1
 - [2026-07-08 13:00] [INFO] [Valeriia Honcharova] ⏸️ Кампанія на паузі: 2405_Makashov_retarget_anketa_nabir_30%
+- [2026-07-08 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 24.66 USD (ціль 10) — 1706_Makashov_sait_A1_world

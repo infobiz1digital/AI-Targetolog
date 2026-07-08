@@ -212,3 +212,4 @@
 - [2026-07-08 13:00] [CRITICAL] [worker] 🔥 CPL критичний: 24.66 USD (ціль 10) — 1706_Makashov_sait_A1_world
 - [2026-07-08 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 22.58 USD (ціль 10) — 0807_Makashov_sait_2_urok_A1_B1
 - [2026-07-08 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 19.75 USD (ціль 10) — 2805_Makashov_awa1_2_zero
+- [2026-07-08 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 16.70 USD (ціль 10) — 2805_Makashov_awa1_zero

@@ -216,3 +216,4 @@
 - [2026-07-09 08:00] [INFO] [worker] 🆕 Нова кампанія: 0907_Makashov_sait3_A1_world
 - [2026-07-09 08:00] [INFO] [worker] 🆕 Нова кампанія: 0907_Makashov_sait2_A1_world
 - [2026-07-09 08:00] [INFO] [worker] 🆕 Нова кампанія: 0907_Makashov_retarget_anketa_nabir_30%
+- [2026-07-09 08:00] [INFO] [Meta] ▶️ Кампанія відновлена: 0207_Makashov_sait_A1_test

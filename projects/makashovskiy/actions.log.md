@@ -219,3 +219,4 @@
 - [2026-07-09 08:00] [INFO] [Meta] ▶️ Кампанія відновлена: 0207_Makashov_sait_A1_test
 - [2026-07-09 08:00] [INFO] [Meta] ▶️ Кампанія відновлена: 1706_Makashov_sait_A1_test
 - [2026-07-09 18:00] [WARNING] [worker] ⚠️ CPL вище норми: 19.88 USD (ціль 10) — 0907_Makashov_sait2_A1_world
+- [2026-07-09 18:00] [CRITICAL] [worker] 🔥 CPL критичний: 31.80 USD (ціль 10) — 1706_Makashov_sait_A1_world

@@ -223,3 +223,4 @@
 - [2026-07-10 08:00] [INFO] [worker] 🆕 Нова кампанія: 1007_Makashov_retarget_anketa_nabir_20%
 - [2026-07-10 08:00] [INFO] [worker] 🆕 Нова кампанія: 1007_Makashov_world_sait1_90uah_sait_intensyv_z_anhliiskoi
 - [2026-07-10 08:00] [INFO] [worker] 🆕 Нова кампанія: 1007_Makashov_world_sait1_90uah_bot_intensyv_z_anhliiskoi
+- [2026-07-10 08:00] [INFO] [Martha Zahranovska] ⏸️ Кампанія на паузі: 0907_Makashov_retarget_anketa_nabir_30%
